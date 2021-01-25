@@ -1,2 +1,0 @@
-01/25/21 07:46 10.243.240.111 Printer offline 
-01/25/21 07:46 ('10.243.240.15', 5964) Printer is online media out Printer is paused 

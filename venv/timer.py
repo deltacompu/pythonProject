@@ -12,17 +12,17 @@ while True:
     current_time=now.strftime("%H:%M")
     time.sleep(10)
     print(current_time)
-    if current_time == "00:34" and firstShift:
+    if current_time == "07:25" and firstShift:
         print('Running script first shift')
         start.sTART()
         firstShift = False
         secondShift = True
-    elif current_time == "00:35" and secondShift:
+    elif current_time == "07:27" and secondShift:
         print('Running script second shift 2')
         start.sTART()
         secondShift=False
         thirdShift=True
-    elif current_time=="00:10" and thirdShift:
+    elif current_time=="07:29" and thirdShift:
         print('Running script third shift 3')
         start.sTART()
         thirdShift=False

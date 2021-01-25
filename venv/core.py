@@ -1,7 +1,7 @@
 from notifications import notifications
 from PrinterStatus import PrinterStatus
 from IpAddress import IpAddress
-
+from logs import logs
 class core():
 
     def sTART(self):
@@ -10,6 +10,7 @@ class core():
         PrintersIpAddres= IpAddress()
         PrintersIPs = PrintersIpAddres.readPrinterInformation()
         status=PrinterStatus()
+        logger=logs()
         for x in PrintersIPs:
             var = x.split()
             for l in range(0, len(var), 2):
@@ -22,11 +23,12 @@ class core():
                     message.append(result)
                     a = "Printer located near pole "+ printerLocation+" with Ip Address "+ ipAddress+ " is facing the next error "+result+"\n"
                     final.append(a)
-
-        multiline_str = ''.join((final))
-        notifier = notifications()
-        notifier.sendEmail(multiline_str)
-
+        if (len(final) != 0):
+            multiline_str = ''.join((final))
+            notifier = notifications()
+            notifier.sendEmail(multiline_str)
+        elif (len(final) == 0):
+            logger.saveEvent("All printers are online \n")
 
 
 

@@ -1,0 +1,1195 @@
+
+01/23/21 20:18 ('10.243.240.100', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.109', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.114', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.111', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.150', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.167', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.164', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.23', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.192', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.101', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.24', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.18', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.130', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.159', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.15', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.128', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.126', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.42', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.182', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.97', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.102', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.149', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.10', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.187', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.168', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.55', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.86', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.209', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.118', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.184', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.138', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.103', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.175', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.157', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.47', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.104', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.105', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.106', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.107', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.108', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.240.24', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:18 ('10.243.244.7', 5964) printer online 
+01/23/21 20:18 Media ok
+01/23/21 20:18 Printer is not paused
+01/23/21 20:25 ('10.243.240.100', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.109', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.114', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.111', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.150', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.167', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.164', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.23', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.192', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.101', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.24', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.18', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.130', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.159', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.15', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.128', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.126', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.42', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.182', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.97', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.102', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.149', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.10', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.187', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.168', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.55', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.86', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.209', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.118', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.184', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.138', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.103', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.175', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.157', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.47', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.104', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.105', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.106', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.107', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.108', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.240.24', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:25 ('10.243.244.7', 5964) printer online 
+01/23/21 20:25 Media ok
+01/23/21 20:25 Printer is not paused
+01/23/21 20:30 ('10.243.240.100', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.109', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.114', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.111', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.150', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.167', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.164', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.23', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.192', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.101', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.24', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.18', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.130', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.159', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.15', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.128', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.126', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.42', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.182', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.97', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.102', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.149', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.10', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.187', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.168', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.55', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.86', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.209', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.118', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.184', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.138', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.103', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.175', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.157', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.47', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.104', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.105', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.106', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.107', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.108', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.240.24', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:30 ('10.243.244.7', 5964) printer online 
+01/23/21 20:30 Media ok
+01/23/21 20:30 Printer is not paused
+01/23/21 20:45 ('10.243.240.100', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.109', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.114', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.111', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.150', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.167', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.164', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.23', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.192', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.101', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.24', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.18', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.130', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.159', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.15', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.128', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.126', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.42', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.182', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.97', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.102', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.149', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.10', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.187', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.168', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.55', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.86', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.209', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.118', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.184', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.138', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.103', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.175', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.157', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.47', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.104', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.105', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.106', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.107', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.108', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.240.24', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:45 ('10.243.244.7', 5964) printer online 
+01/23/21 20:45 Media ok
+01/23/21 20:45 Printer is not paused
+01/23/21 20:49 ('10.243.240.100', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.109', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.114', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.111', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.150', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.167', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.164', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.23', 5964) printer online 
+01/23/21 20:49 Media ok
+01/23/21 20:49 Printer is not paused
+01/23/21 20:49 ('10.243.240.192', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.101', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.24', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.18', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.130', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.159', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.15', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.128', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.126', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.42', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.182', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.97', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.102', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.149', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.10', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.187', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.168', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.55', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.86', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.209', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.118', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.184', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.138', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.103', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.175', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.157', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.47', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.104', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.105', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.106', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.107', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.108', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.240.24', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:50 ('10.243.244.7', 5964) printer online 
+01/23/21 20:50 Media ok
+01/23/21 20:50 Printer is not paused
+01/23/21 20:59 ('10.243.240.100', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.109', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.114', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.111', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.150', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.167', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.164', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.23', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.192', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.101', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.24', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.18', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.130', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.159', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.100', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.109', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.114', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.111', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.150', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 20:59 ('10.243.240.167', 5964) printer online 
+01/23/21 20:59 Media ok
+01/23/21 20:59 Printer is not paused
+01/23/21 21:00 ('10.243.240.100', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.109', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.114', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.111', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.150', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.167', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.164', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.23', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.192', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.101', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.24', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.18', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.130', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.159', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.15', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.128', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.126', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.42', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.182', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.97', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.102', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.149', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.10', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.187', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.168', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.55', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.86', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.209', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.118', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.184', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.138', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.103', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.175', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.157', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.47', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.104', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.105', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.106', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.107', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.108', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.240.24', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:00 ('10.243.244.7', 5964) printer online 
+01/23/21 21:00 Media ok
+01/23/21 21:00 Printer is not paused
+01/23/21 21:05 ('10.243.240.100', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.109', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.114', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.111', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.150', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.167', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.164', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.23', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.192', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.101', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.24', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.18', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.130', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.159', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.15', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.128', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.126', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.42', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.182', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.97', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.102', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.149', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.10', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.187', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.168', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.55', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.86', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.209', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.118', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.184', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.138', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.103', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.175', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.157', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.47', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.104', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.105', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.106', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.107', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.108', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.240.24', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/23/21 21:05 ('10.243.244.7', 5964) printer online 
+01/23/21 21:05 Media ok
+01/23/21 21:05 Printer is not paused
+01/24/21 00:34 ('10.243.240.100', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.109', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.114', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.111', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.150', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.167', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.164', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.23', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.192', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.101', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.24', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.18', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.130', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.159', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.15', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.128', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.126', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.42', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.182', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.97', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.102', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.149', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.10', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.187', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.168', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.55', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.86', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.209', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.118', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.184', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.138', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.103', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.175', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.157', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.47', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.104', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.105', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.106', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.107', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.240.108', 5964) printer online 
+01/24/21 00:34  Media out 
+01/24/21 00:34 Printer is paused
+01/24/21 00:34 ('10.243.240.24', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:34 ('10.243.244.7', 5964) printer online 
+01/24/21 00:34 Media ok
+01/24/21 00:34 Printer is not paused
+01/24/21 00:35 ('10.243.240.100', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.109', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.114', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.111', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.150', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.167', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.164', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.23', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.192', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.101', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.24', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.18', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.130', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.159', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.15', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.128', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.126', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.42', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.182', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.97', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.102', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.149', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.10', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.187', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.168', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.55', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.86', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.209', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.118', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.184', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.138', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.103', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.175', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.157', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.47', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.104', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.105', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.106', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.107', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.240.108', 5964) printer online 
+01/24/21 00:35  Media out 
+01/24/21 00:35 Printer is paused
+01/24/21 00:35 ('10.243.240.24', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused
+01/24/21 00:35 ('10.243.244.7', 5964) printer online 
+01/24/21 00:35 Media ok
+01/24/21 00:35 Printer is not paused

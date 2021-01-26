@@ -9,10 +9,10 @@ thirdShift=False
 start = core()
 while True:
     now=datetime.now()
+    print(now)
     current_time=now.strftime("%H:%M")
     time.sleep(10)
-    print(current_time)
-    if current_time == "08:00" and firstShift:
+   if current_time == "08:00" and firstShift:
         print('Running script first shift')
         start.sTART()
         firstShift = False

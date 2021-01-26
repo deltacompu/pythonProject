@@ -12,7 +12,7 @@ while True:
     print(now)
     current_time=now.strftime("%H:%M")
     time.sleep(10)
-   if current_time == "08:00" and firstShift:
+    if current_time == "08:00" and firstShift:
         print('Running script first shift')
         start.sTART()
         firstShift = False
